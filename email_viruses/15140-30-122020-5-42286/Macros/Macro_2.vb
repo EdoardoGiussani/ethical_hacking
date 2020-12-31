@@ -8,5 +8,5 @@ Attribute VB_TemplateDerived = True
 Attribute VB_Customizable = True
 
 Private Sub Document_open()
-    R56_jx62hkjlsm
+    Func_1
 End Sub
