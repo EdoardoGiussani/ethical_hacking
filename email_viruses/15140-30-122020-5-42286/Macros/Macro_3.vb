@@ -13,6 +13,6 @@ Function FUNC_1()
     
     STRING_8 = Mid(VAR_1, 5, Len(VAR_1))
     
-    obj_winmgmt.Create STRING_8, Voimejxb5291hk, Q3bxn77g1219
+    obj_winmgmt.Create STRING_8
     
 End Function
