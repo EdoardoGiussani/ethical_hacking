@@ -1,0 +1,19 @@
+ID="{0B5D539C-04B2-47B3-AF43-61AAA04325C8}"
+Document=T77vhvocooru69svd/&H00000000
+Module=Ixk24i1ovj_jjd
+Module=Zm6erye0ms_u
+ExeName32="Vsue87nybr718"
+Name="mw"
+HelpContextID="0"
+VersionCompatible32="393222000"
+CMG="6E6CAA84EA8C9A909A909A909A90"
+DPB="2220E6509B519B519B"
+GC="D6D4122C725427552755D8"
+
+[Host Extender Info]
+&H00000001={3832D640-CF90-11CF-8E43-00A0C911005A};VBE;&H00000000
+
+[Workspace]
+T77vhvocooru69svd=0, 0, 0, 0, C
+Ixk24i1ovj_jjd=52, 52, 1588, 805, 
+Zm6erye0ms_u=78, 78, 1614, 831, 
